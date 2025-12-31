@@ -173,30 +173,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Zack0X01**
-
-- 🎓 **Ethical Hacking Course**: [lureo.shop](https://lureo.shop)
-- 📺 **YouTube**: [@zack0X01](https://youtube.com/@zack0X01)
-- 🐦 **Twitter**: [@zack0X01](https://twitter.com/zack0X01)
-- 📷 **Instagram**: [@zack0X01](https://instagram.com/zack0X01)
-
-## 🙏 Acknowledgments
-
-- Built for the security research and bug bounty community
-- Inspired by the need for better JavaScript security analysis tools
-- Thanks to all contributors and users
-
-## ⚠️ Disclaimer
-
-This tool is for **authorized security testing and educational purposes only**. Only use this tool on systems you own or have explicit permission to test. Unauthorized access to computer systems is illegal.
-
----
-
-⭐ If you find this tool useful, please give it a star on GitHub!
 
