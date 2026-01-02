@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Enhanced JavaScript Security Analyzer
+Enhanced JS Sec Analyzer
 Reduced false positives, better detection patterns
 """
 

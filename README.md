@@ -1,17 +1,7 @@
-# 🔒 JavaScript Security Analyzer
+# 🔒 JS Sec Analyzer
 
-A powerful, modern web application for analyzing JavaScript files to detect sensitive data, security vulnerabilities, and potential attack vectors. Perfect for bug bounty hunters, security researchers, and developers.
+A tool that analyzing JavaScript files to detect sensitive data, security vulnerabilities, and potential attack vectors. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fCmVnnlsID4?si=2p-3Hz9PxmckRiwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)
-
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-## ✨ Features
-
-<img width="1422" height="951" alt="js" src="https://github.com/user-attachments/assets/6add9554-ef6e-4a02-acc6-892f15ae6165" />
 
 ### 🔍 Security Detection
 - **API Keys**: Detects AWS, Google, GitHub, Stripe, PayPal, Slack, Firebase, JWT tokens, and more
@@ -63,8 +53,8 @@ A powerful, modern web application for analyzing JavaScript files to detect sens
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/zack0X01/js-analysis
-cd js-analysis
+git clone https://github.com/Zee147/JS_Hunter.git
+cd JS_Hunter
 ```
 
 2. **Install dependencies**
@@ -163,14 +153,11 @@ Results are displayed in an organized, filterable interface:
 - Input validation and sanitization
 - CORS protection enabled
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
+
+**Sploitec**
+
+- **Website**: [@sploitec](https://sploitec.com/)
+- **Twitter**: [@sploitec](https://x.com/sploitec)
+- **Instagram**: [@sploitec](https://www.instagram.com/sploitec)

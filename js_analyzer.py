@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-JavaScript Security Analyzer
+JS Sec Analyzer
 Analyzes JavaScript files from URLs for sensitive data, XSS vulnerabilities, and API endpoints.
 """
 
@@ -354,7 +354,7 @@ class OutputFormatter:
 
 def main():
     parser = argparse.ArgumentParser(
-        description='JavaScript Security Analyzer - Analyze JS files for sensitive data and vulnerabilities',
+        description='JS Sec Analyzer - Analyze JS files for sensitive data and vulnerabilities',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:

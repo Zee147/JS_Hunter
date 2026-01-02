@@ -1,4 +1,4 @@
-// JavaScript Security Analyzer Frontend
+// JS Sec Analyzer Frontend
 // 
 // NOTE: ALL ANALYSIS HAPPENS ON THE SERVER
 // This frontend only:
